@@ -58,3 +58,9 @@ Top-100 Trending Books.csv
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir issues para reportar problemas ou sugerir melhorias, assim como enviar pull requests.
 
+### 📩 Contato
+
+Desenvolvido por **Matheus Trajano**  
+[💼 LinkedIn](https://www.linkedin.com/in/matheus-trajano-5179a7378) | [✉️ E-mail](mailto:matheustrajano454@gmail.com)
+
+
