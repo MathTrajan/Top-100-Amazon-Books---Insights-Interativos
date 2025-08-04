@@ -1,4 +1,4 @@
-# 📚 Projeto: Top 100 Amazon Books — Análise e Visualização Interativa
+# 📚 Top 100 Amazon Books — Análise e Visualização Interativa
 
 Este repositório apresenta um aplicativo web interativo desenvolvido com **Streamlit** por **Matheus Trajano** para explorar dados de livros da Amazon, suas avaliações e informações relevantes.
 
