@@ -46,12 +46,9 @@ Para executar o app localmente, siga as instruções na seção "Como instalar e
 📁 Estrutura do Projeto
 pages/Book_Reviews.py
 Script principal do app que carrega os dados, faz o filtro dos livros e exibe as avaliações.
-
 dataset/
 Contém os arquivos CSV usados para análise:
-
 customer reviews.csv
-
 Top-100 Trending Books.csv
 
 🤝 Contribuição
